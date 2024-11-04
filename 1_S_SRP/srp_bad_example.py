@@ -9,6 +9,7 @@ classes com suas devidas responsabilidades.
 '''
 
 
+
 class TaskHandler:
     def conect_api():
         pass
@@ -30,4 +31,3 @@ class TaskHandler:
 
     def send_report():
         pass
-
