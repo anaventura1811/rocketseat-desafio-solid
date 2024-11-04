@@ -32,6 +32,7 @@ class AprovaExame:
         # implemente as condições específicas do exame de raio-x
         pass
 
+
 # Exemplo de uso:
 class Exame:
     def __init__(self, tipo):
