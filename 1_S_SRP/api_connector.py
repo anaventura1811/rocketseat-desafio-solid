@@ -1,2 +1,3 @@
 class APIConector:
-    def conect_api(): pass
+    def conect_api(self):
+        pass

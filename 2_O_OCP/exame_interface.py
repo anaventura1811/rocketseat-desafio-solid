@@ -6,4 +6,5 @@ class ExameInterface(ABC):
         self.tipo = tipo
 
     @abstractmethod
-    def verifica_condicoes_exame(self, exame): pass
+    def verifica_condicoes_exame(self, exame):
+        pass

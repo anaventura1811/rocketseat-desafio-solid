@@ -1,10 +1,10 @@
 class TaskHandler:
 
-    def create_task():
+    def create_task(self):
         pass
 
-    def update_task():
+    def update_task(self):
         pass
 
-    def remove_task():
+    def remove_task(self):
         pass
